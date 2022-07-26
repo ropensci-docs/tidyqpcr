@@ -1,0 +1,13 @@
+pandoc: 2.16.2
+pkgdown: 2.0.5
+pkgdown_sha: ~
+articles:
+  calibration_vignette: calibration_vignette.html
+  deltacq_96well_vignette: deltacq_96well_vignette.html
+  multifactor_vignette: multifactor_vignette.html
+  platesetup_vignette: platesetup_vignette.html
+last_built: 2022-07-26T05:58Z
+urls:
+  reference: https://docs.ropensci.org/tidyqpcr/reference
+  article: https://docs.ropensci.org/tidyqpcr/articles
+
