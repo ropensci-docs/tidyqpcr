@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "88839a6f16fb995204bec98510ddb325782cfcbf",
+    "author": "Edward Wallace <ewallace@users.noreply.github.com>",
+    "time": "2022-06-26 23:01:24",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #195 from ropensci/joss-doi\n\nfix doi and capitalisation in paper.bib"
+  },
+  "repo": "https://github.com/ropensci/tidyqpcr",
+  "pkg": "tidyqpcr"
+}
