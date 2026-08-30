@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "0d3f62f16ce3cc216a011ad5c64f270f34d1331d",
+    "author": "Edward Wallace <ewallace@users.noreply.github.com>",
+    "time": "2024-04-29T14:34:44Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #199 from ropensci/remove-watermark\n\nremove draft watermark from paper.md\r\n\r\nThis is old, and a very small change that affects no code. Approving."
+  },
+  "repo": "https://github.com/ropensci/tidyqpcr",
+  "pkg": "tidyqpcr",
+  "time": "2026-08-30T07:38:01Z"
+}
